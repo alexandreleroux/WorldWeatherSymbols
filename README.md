@@ -19,7 +19,7 @@ A set of pre-generated PNGs are available for download at https://github.com/OGC
 
 ### Building PNGs
 
-To build PNG equivalents of the symbols, run ```./scripts/wws_manage.sh png```.  Output PNG files are located in ```png/```.  Inkscape is required to run the conversions.  
+To build PNG equivalents of the symbols, run ```./scripts/wws_manage.sh png```.  Output PNG files are located in ```png/```.  [Inkscape](https://inkscape.org) is required to run the conversions.  
 
 ### Displaying the symbols on GitHub
 
