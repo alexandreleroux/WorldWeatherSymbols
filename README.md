@@ -23,6 +23,4 @@ To build PNG equivalents of the symbols, run ```./scripts/wws_manage.sh png```. 
 
 ### Displaying the symbols on GitHub
 
-WorldWeatherSymbols can be displayed directly on Github by opening the symbol's svg file.
-
-![alt tag](/Ft_Fronts/WeatherSymbol_WMO_Front_Cold_at_surface.svg)
+WorldWeatherSymbols can be displayed directly on Github by opening the symbol's svg file, ![example](/Ft_Fronts/WeatherSymbol_WMO_Front_Cold_at_surface.svg).
