@@ -25,4 +25,4 @@ To build PNG equivalents of the symbols, run ```./scripts/wws_manage.sh png```. 
 
 WorldWeatherSymbols can be displayed directly on Github by opening the symbol's svg file.
 
-![alt tag](https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/blob/master/Ft_Fronts/WeatherSymbol_WMO_Front_Cold_at_surface.svg)
+![alt tag](/Ft_Fronts/WeatherSymbol_WMO_Front_Cold_at_surface.svg)
